@@ -1,0 +1,9 @@
+	G.Ament	J.Sankey	R.Ambler	T.Schreiber	W.Manny	M.Holman	J.Currier	I.MacKay
+G.Ament	0	0	0	2	3	1	1	2
+J.Sankey	0	0	0	0	0	1	0	1
+R.Ambler	1	0	0	1	2	1	1	0
+T.Schreiber	0	0	0	0	2	0	2	2
+W.Manny	1	1	0	0	0	0	0	0
+M.Holman	0	0	0	0	0	0	0	0
+J.Currier	0	0	0	0	0	0	0	0
+I.MacKay	0	0	0	0	0	0	0	0
