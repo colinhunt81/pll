@@ -1,0 +1,10 @@
+	B.Costabile	C.Buczek	C.Cloutier	E.Law	J.Crawley	P.Rabil	R.Dennis	R.Pannell	R.Brown
+B.Costabile	0	0	0	0	0	0	0	0	1
+C.Buczek	1	0	0	0	0	1	0	0	0
+C.Cloutier	0	0	0	0	0	0	1	0	1
+E.Law	1	1	0	0	0	0	0	0	2
+J.Crawley	0	0	0	0	0	1	0	0	0
+P.Rabil	1	3	0	1	0	0	1	0	1
+R.Dennis	0	0	0	0	0	0	0	0	1
+R.Pannell	1	6	1	2	2	3	4	0	3
+R.Brown	0	0	0	0	0	0	0	0	0
